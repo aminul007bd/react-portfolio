@@ -4,15 +4,14 @@ import Row from 'react-bootstrap/Row'
 
 export const HeaderPage = (props) => {
 	const { name, mobile, address, linkedin } = props.personalInformation
-	console.log(name)
 	return (
 		<>
 			<Row>
-				<Col>
-					<h1> {name}</h1>
-					<h1> {mobile}</h1>
-					<h1> {address}</h1>
-					<h1> {linkedin}</h1>
+				<Col className="text-center">
+					<p className="mb-0 "> {name}</p>
+					<p className="mb-0"> {mobile}</p>
+					<p className="mb-0"> {address}</p>
+					<p className="mb-0"> {linkedin}</p>
 				</Col>
 			</Row>
 		</>
