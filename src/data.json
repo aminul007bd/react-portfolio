@@ -1,0 +1,132 @@
+[
+	{
+		"personalInformation": {
+			"name": "Md Aminul Hoque",
+			"mobile": "+14079465215",
+			"address": "3039 Ne Overlook Dr, Hillsboro, OR, 97124",
+			"email": "gem007bd@gmail.com",
+			"linkedin": "https://www.linkedin.com/in/aminul007bd"
+		},
+
+		"profileSummary": {
+			"title": "Communicating effectively with others and motivating them is essential to thoroughly understand data structures and algorithms. My abilities to study independently, keep up with all the latest technology, and break down complex jobs into tiny, manageable pieces are all assets I bring to the table.",
+			"details": [
+				"Experience developing, planning, and implementing web-based applications in various technologies. Excellent interpersonal and analytical reasoning skills, as well as the capacity to adapt to rapidly changing technical situations quickly",
+				"Adequate knowledge of HTML5, CSS3, JavaScript, React, Angular, Typescript, Java 8, Spring Boot, PHP, MySQL, Docker, Python, C#, Test-driven development (TDD), Jasmine, AWS, MongoDB."
+			]
+		},
+		"professionalExperience": [
+			{
+				"companyName": "Eden Prairie, MN (Remote), USA",
+				"role": "Software Developer",
+				"from": "August 1 2022",
+				"to": "Current",
+				"responsibilities": [
+					"Developed Customer spend dashboard Material UI, HTML 5/CSS3, Rxjs, Typescript, and Responsive Design on Angular14 frameworks",
+					"Use Spring Boot microservice to communicate with different systems like SAP, MAO, and BLUE, and build REST API",
+					"To achieve in business, the demands of customers are studied, and new ideas are generated and executed",
+					"Create API integration for order management systems with Spring Boot, Java 8."
+				]
+			},
+			{
+				"companyName": "Caseking GmbH, Berlin, Germany",
+				"role": "Software Developer",
+				"from": "July 3, 2020",
+				"to": "July 30, 2021",
+				"responsibilities": [
+					"Create a real-time monitoring and alerting system Using React, React Hooks, Context API, REST API, and Bootstrap 4 for tracking vehicles, making the online product delivery process quicker",
+					"Make suggestions and provide input on how to improve existing features and systems so that they better serve the company",
+					"Help improve the team's general skill level and output quality by serving as a mentor to other developers.",
+					"Collaborate with developers, QA, product designers, product managers, and 3rd party resources."
+				]
+			},
+			{
+				"companyName": "Protel HotelSoftware GmbH, Dortmund, Germany",
+				"role": "Software Developer",
+				"from": "May 3, 2018",
+				"to": "June 30, 2020",
+				"responsibilities": [
+					"To maintain a property management system (PMS) for the hotel industry using Java 8, Sprint Boot, MySQL, AWS, Grafana, Sencha, Angular, Microservices, and JavaScript",
+					"Effective scripts were developed to compare the performance of various mitigation methods in terms of quality of service.",
+					"Docker maintained the CI/CD platform used for deployment and code maintenance, resulting in 10 times faster.",
+					"Assist in creating user interfaces for various web-based applications using HTML5, JavaScript, React, and CSS. This increased application performance by 10%."
+				]
+			},
+			{
+				"companyName": "Kaz Software Limited, Dhaka, Bangladesh",
+				"role": "Software Engineer (Frontend)",
+				"from": "May 3, 2014",
+				"to": "April 3, 2018",
+				"responsibilities": [
+					"Used HTML5, CSS3, AngularJs, bootstrap3, and JavaScript in the process of developing a responsive web application for the organization as well as the client.",
+					"Tested, debugged, and delivered thousands of lines of code. 100% bug-free deployment.",
+					"Create backend components that integrate with Restful Web services using Java and C#, APIs, and frontend functions to improve performance."
+				]
+			},
+			{
+				"companyName": "Kaz Software Limited, Dhaka, Bangladesh",
+				"role": "Software Engineer (Frontend)",
+				"from": "May 3, 2014",
+				"to": "April 3, 2018",
+				"responsibilities": [
+					"Used HTML5, CSS3, AngularJs, bootstrap3, and JavaScript in the process of developing a responsive web application for the organization as well as the client.",
+					"Tested, debugged, and delivered thousands of lines of code. 100% bug-free deployment.",
+					"Create backend components that integrate with Restful Web services using Java and C#, APIs, and frontend functions to improve performance."
+				]
+			},
+			{
+				"companyName": "Accenture, Dhaka, Bangladesh",
+				"role": "Software Engineering Analyst",
+				"from": "October 2, 2012",
+				"to": "April 30, 2014",
+				"responsibilities": [
+					"Built Employee Management System (EMS) for Grameenphone, which has approximately 5000 people and can assist the company.",
+					"Create interactive applications interfaces with XML, CSS, HTML5, JavaScript, jQuery, PHP and AJAX.",
+					"Contribute to creating a Summit Power Energy Dashboard that displays various statistics from the power infrastructure.",
+					"To improve interpersonal and communication skills by participating in various training within the organization."
+				]
+			},
+			{
+				"companyName": "Web souls bd, Dhaka, Bangladesh",
+				"role": "Software Engineer (Frontend)",
+				"from": "May 02, 2009",
+				"to": "September 30, 2012",
+				"responsibilities": [
+					"Developing a penny auction application for five different clients and maintaining and supporting those platforms.",
+					"Incorporated the main components of PHP and JavaScript, which manage application logic.",
+					"Collaboration in planning and developing various customer projects resulted in successfully delivering those software applications on schedule and within budget."
+				]
+			}
+		],
+		"education": [
+			{
+				"degree": "Masters in Cybersecurity (July 2022)",
+				"university": "Webster University, Orlando, Florida",
+				"course": "Introduction to Cybersecurity, Cybersecurity Communications, Cybersecurity Infrastructures, Cybersecurity Intelligence /Counterintelligence, Cybersecurity Strategic Operations, Encryption Methods."
+			},
+			{
+				"degree": "Bachelor’s in computer science and Engineering (2005 to 2009)",
+				"university": "Khulna University of Engineering and Technology, Khulna, Bangladesh",
+				"course": "Data Structure, Algorithm, C, C++, Discrete Mathematics, Database, System Analysis and Design, Computer Graphics, Computer Architecture, Artificial Intelligence."
+			}
+		],
+		"certificate": [
+			{
+				"title": "Java 8",
+				"url": "https://www.udemy.com/certificate/UC-b4ad7d99-fbbb-4771-bde8-025bf34018c4"
+			},
+			{
+				"title": "React",
+				"url": "https://www.udemy.com/certificate/UC-318da312-8290-46c3-90e7-01401765f130"
+			},
+			{
+				"title": "Vue",
+				"url": "https://www.udemy.com/certificate/UC-JCXLWMLJ"
+			},
+			{
+				"title": "Java 8",
+				"url": "https://www.udemy.com/certificate/UC-7KDE7XO7"
+			}
+		]
+	}
+]
