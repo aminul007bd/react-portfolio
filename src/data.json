@@ -64,17 +64,6 @@
 				]
 			},
 			{
-				"companyName": "Kaz Software Limited, Dhaka, Bangladesh",
-				"role": "Software Engineer (Frontend)",
-				"from": "May 3, 2014",
-				"to": "April 3, 2018",
-				"responsibilities": [
-					"Used HTML5, CSS3, AngularJs, bootstrap3, and JavaScript in the process of developing a responsive web application for the organization as well as the client.",
-					"Tested, debugged, and delivered thousands of lines of code. 100% bug-free deployment.",
-					"Create backend components that integrate with Restful Web services using Java and C#, APIs, and frontend functions to improve performance."
-				]
-			},
-			{
 				"companyName": "Accenture, Dhaka, Bangladesh",
 				"role": "Software Engineering Analyst",
 				"from": "October 2, 2012",
